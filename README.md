@@ -1,4 +1,4 @@
-[![MasterHead](https://freedesignresources.net/wp-content/uploads/2022/11/3D-UI-Illustration-Summer-Vibes_Bas-Hasibuan_201122_prev01.png)
+
 <h1 align="center">Hi 👋, I'm Akash soni</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img aling="right" style="right: 0px; width: 100%; height: 250px;" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
